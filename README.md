@@ -12,3 +12,7 @@ Download all required applications and softwares
 ### 2. Install Dependencies:
 $ cd contracts
 $ npm install
+### 3. Deploy NFT collection to Polygon Mumbai testnet
+Setup your env file with both private key and mumbai RPC
+
+$ $ npx hardhat run scripts/deployNFTCollection.js --network mumbai

@@ -16,3 +16,7 @@ $ npm install
 Setup your env file with both private key and mumbai RPC
 
 $ $ npx hardhat run scripts/deployNFTCollection.js --network mumbai
+### 4. Deploy Run token to Polygon Mumbai testnet
+Setup your env file with both private key and mumbai RPC
+
+$ $ npx hardhat run scripts/deployRunToken.js --network mumbai

@@ -9,3 +9,7 @@ Hardhat Ethereum development environment
 Ethers.js To interact with the blockchain
 ### 1. Clone/Download the Repository
 Download all required applications and softwares
+### 2. Install Dependencies:
+$ cd contracts
+
+$ npm install

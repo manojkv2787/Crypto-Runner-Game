@@ -11,5 +11,4 @@ Ethers.js To interact with the blockchain
 Download all required applications and softwares
 ### 2. Install Dependencies:
 $ cd contracts
-
 $ npm install
